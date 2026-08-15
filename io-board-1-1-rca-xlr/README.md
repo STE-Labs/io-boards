@@ -39,7 +39,7 @@
 |Type|Quantity|Value|Description|
 |----|--------|-----|-----------|
 |CONNECTOR|2|RCA Black|Signal connectors|
-|CONNECTOR|1|XLR IN|Signal connectors|
-|CONNECTOR|1|XLR OUT|Signal connectors|
+|CONNECTOR|1|Neutrik NC3 MAV|Signal connectors|
+|CONNECTOR|1|Neutrik NC 3 FAA V2|Signal connectors|
 |CONNECTOR|2|SMA|Signal connectors|
 |JUMPER|1|2 Pin|Ground Cold Output|
