@@ -23,10 +23,10 @@
 - Through-hole connections for easy assembly and maintenance
 
 ## PCB Specifications
-- Size: 115mm x 65mm
+- Size: 30mm x 65mm
 - Thickness: 2.0mm
 - Material: FR4 S1000H TG150
-- Layers: 4
+- Layers: 2
 - Finish: Immersion Gold (ENIG)
 - Copper weight: 1oz
 - Solder mask: Matte black
