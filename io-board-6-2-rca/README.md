@@ -12,8 +12,8 @@
 - [BOM](#bom)
 
 ## Overview
-[![PCB Front](./docs/pcb-front.png)](./docs/pcb-front.png)
-[![PCB Back](./docs/pcb-back.png)](./docs/pcb-back.png)
+[![PCB Front](./docs/pcb-front.thumb.png)](./docs/pcb-front.png)
+[![PCB Back](./docs/pcb-back.thumb.png)](./docs/pcb-back.png)
 - Designed for 5V DC operation
 - 6 input RCA connections with indicator LEDs
 - 2 output RCA connection with indicator LED
@@ -34,13 +34,13 @@
 - Silkscreen: White
 
 ## Circuit Diagram Switch Logic
-![Circuit Diagram Switch Logic](./docs/circuit-diagram-switch-logic.png)
+[![Circuit Diagram Switch Logic](./docs/circuit-diagram-switch-logic.thumb.png)](./docs/circuit-diagram-switch-logic.png)
 
 ## Circuit Diagram Left Channel
-![Circuit Diagram Left Channel](./docs/circuit-diagram-left-channel.png)
+[![Circuit Diagram Left Channel](./docs/circuit-diagram-left-channel.thumb.png)](./docs/circuit-diagram-left-channel.png)
 
 ## Circuit Diagram Right Channel
-![Circuit Diagram Right Channel](./docs/circuit-diagram-right-channel.png)
+[![Circuit Diagram Right Channel](./docs/circuit-diagram-right-channel.thumb.png)](./docs/circuit-diagram-right-channel.png)
 
 ## BOM
 |Type|Quantity|Value|Description|
