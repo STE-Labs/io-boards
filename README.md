@@ -25,8 +25,8 @@ We offer several PCB solutions for routing audio signals. Our PCBs are designed 
 ## IO-Boards
 | Board | Size | Inputs | Outputs | DSP Support | Type |
 |-------|------|--------|---------|-------------|------|
-| [io-board-3-1-rca](./io-board-3-1-rca/README.md) | 100mm x 70mm | 3 | 1 | Yes | RCA |
-| [io-board-4-0-rca](./io-board-4-0-rca/README.md) | 100mm x 70mm | 4 | 0 | No  | RCA |
-| [io-board-4-1-rca](./io-board-4-1-rca/README.md) | 100mm x 70mm | 4 | 1 | Yes | RCA |
-| [io-board-5-0-rca](./io-board-5-0-rca/README.md) | 100mm x 70mm | 5 | 0 | No  | RCA |
-| [io-board-6-2-rca](./io-board-6-2-rca/README.md) | 100mm x 70mm | 6 | 2 | Yes | RCA |
+| [io-board-3-1-rca](./io-board-3-1-rca/README.md) | 115mm x 65mm | 3 | 1 | Yes | RCA |
+| [io-board-4-0-rca](./io-board-4-0-rca/README.md) | 115mm x 65mm | 4 | 0 | No  | RCA |
+| [io-board-4-1-rca](./io-board-4-1-rca/README.md) | 143mm x 65mm | 4 | 1 | Yes | RCA |
+| [io-board-5-0-rca](./io-board-5-0-rca/README.md) | 143mm x 65mm | 5 | 0 | No  | RCA |
+| [io-board-6-2-rca](./io-board-6-2-rca/README.md) | 220mm x 65mm | 6 | 2 | Yes | RCA |
