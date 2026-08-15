@@ -12,8 +12,8 @@
 - [BOM](#bom)
 
 ## Overview
-[![PCB Front](./docs/pcb-front.thumb.png)](./docs/pcb-front.png)
-[![PCB Back](./docs/pcb-back.thumb.png)](./docs/pcb-back.png)
+[![PCB Front](./docs/pcb-front.png)](./docs/pcb-front.png)
+[![PCB Back](./docs/pcb-back.png)](./docs/pcb-back.png)
 - Designed for 5V DC operation
 - 3 input RCA connections with indicator LEDs
 - 1 output RCA connection with indicator LED

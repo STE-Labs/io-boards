@@ -26,7 +26,7 @@
 ## PCB Specifications
 - Size: 143mm x 65mm
 - Thickness: 2.0mm
-- Material: FR4
+- Material: FR4 S1000H TG150
 - Layers: 4
 - Finish: Immersion Gold (ENIG)
 - Copper weight: 1oz
