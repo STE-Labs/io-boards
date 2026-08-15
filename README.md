@@ -25,6 +25,7 @@ We offer several PCB solutions for routing audio signals. Our PCBs are designed 
 ## IO-Boards
 | Board | Size | Inputs | Outputs | DSP Support | Type |
 |-------|------|--------|---------|-------------|------|
+| [io-board-1-1-rca-xlr](./io-board-1-1-rca-xlr/README.md) | 30mm x 65mm | 1 | 1 | No | RCA/XLR |
 | [io-board-3-1-rca](./io-board-3-1-rca/README.md) | 115mm x 65mm | 3 | 1 | Yes | RCA |
 | [io-board-4-0-rca](./io-board-4-0-rca/README.md) | 115mm x 65mm | 4 | 0 | No  | RCA |
 | [io-board-4-1-rca](./io-board-4-1-rca/README.md) | 143mm x 65mm | 4 | 1 | Yes | RCA |
