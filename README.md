@@ -23,17 +23,10 @@ We offer several PCB solutions for routing audio signals. Our PCBs are designed 
 |[io-board-control-analog](./io-board-control-analog/README.md)|50mm x 40mm|
 
 ## IO-Boards
-| Board | Size | Inputs | Outputs | DSP Support | Type | State |
-|-------|------|--------|---------|-------------|------|-------|
-| [io-board-3-1-rca](./io-board-3-1-rca/README.md) | 100mm x 70mm | 3 | 1 | Yes | RCA | Done |
-| [io-board-3-1-xlr](./io-board-3-1-xlr/README.md) | 100mm x 70mm | 3 | 1 | Yes | XLR |  |
-| [io-board-4-0-rca](./io-board-4-0-rca/README.md) | 100mm x 70mm | 4 | 0 | No  | RCA |  |
-| [io-board-4-0-xlr](./io-board-4-0-xlr/README.md) | 100mm x 70mm | 4 | 0 | No  | XLR |  |
-| [io-board-4-1-rca](./io-board-4-1-rca/README.md) | 100mm x 70mm | 4 | 1 | Yes | RCA | Done |
-| [io-board-4-1-xlr](./io-board-4-1-xlr/README.md) | 100mm x 70mm | 4 | 1 | Yes | XLR |  |
-| [io-board-5-0-rca](./io-board-5-0-rca/README.md) | 100mm x 70mm | 5 | 0 | No  | RCA |  |
-| [io-board-5-0-xlr](./io-board-5-0-xlr/README.md) | 100mm x 70mm | 5 | 0 | No  | XLR |  |
-| [io-board-5-1-rca](./io-board-5-1-rca/README.md) | 100mm x 70mm | 5 | 1 | Yes | RCA |  |
-| [io-board-5-1-xlr](./io-board-5-1-xlr/README.md) | 100mm x 70mm | 5 | 1 | Yes | XLR |  |
-| [io-board-6-2-rca](./io-board-6-2-rca/README.md) | 100mm x 70mm | 6 | 2 | Yes | RCA |  |
-| [io-board-6-2-xlr](./io-board-6-2-xlr/README.md) | 100mm x 70mm | 6 | 2 | Yes | XLR |  |
+| Board | Size | Inputs | Outputs | DSP Support | Type |
+|-------|------|--------|---------|-------------|------|
+| [io-board-3-1-rca](./io-board-3-1-rca/README.md) | 100mm x 70mm | 3 | 1 | Yes | RCA |
+| [io-board-4-0-rca](./io-board-4-0-rca/README.md) | 100mm x 70mm | 4 | 0 | No  | RCA |
+| [io-board-4-1-rca](./io-board-4-1-rca/README.md) | 100mm x 70mm | 4 | 1 | Yes | RCA |
+| [io-board-5-0-rca](./io-board-5-0-rca/README.md) | 100mm x 70mm | 5 | 0 | No  | RCA |
+| [io-board-6-2-rca](./io-board-6-2-rca/README.md) | 100mm x 70mm | 6 | 2 | Yes | RCA |
