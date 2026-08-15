@@ -6,11 +6,14 @@
 ## Table of contents
 - [Overview](#overview)
 - [PCB Specifications](#pcb-specifications)
+- [Circuit Diagram Switch Logic](#circuit-diagram-switch-logic)
+- [Circuit Diagram Left Channel](#circuit-diagram-left-channel)
+- [Circuit Diagram Right Channel](#circuit-diagram-right-channel)
 - [BOM](#bom)
 
 ## Overview
-[![PCB Front](./docs/pcb-front.thumb.png)](./docs/pcb-front.png)
-[![PCB Back](./docs/pcb-back.thumb.png)](./docs/pcb-back.png)
+[![PCB Front](./docs/pcb-front.png)](./docs/pcb-front.png)
+[![PCB Back](./docs/pcb-back.png)](./docs/pcb-back.png)
 - Designed for 5V DC operation
 - 4 input RCA connections with indicator LEDs
 - Both signal and ground are switched on RCA boards to prevent ground loops between digital devices
@@ -29,8 +32,14 @@
 - Solder mask: Matte black
 - Silkscreen: White
 
-## PCB Dimensions
-![PCB Dimensions](./docs/pcb_dimensions.png)
+## Circuit Diagram Switch Logic
+![Circuit Diagram Switch Logic](./docs/circuit-diagram-switch-logic.png)
+
+## Circuit Diagram Left Channel
+![Circuit Diagram Left Channel](./docs/circuit-diagram-left-channel.png)
+
+## Circuit Diagram Right Channel
+![Circuit Diagram Right Channel](./docs/circuit-diagram-right-channel.png)
 
 ## BOM
 |Type|Quantity|Value|Description|
@@ -46,5 +55,5 @@
 |CONNECTOR|4|RCA White|Signal connectors|
 |CONNECTOR|4|RCA Red|Signal connectors|
 |CONNECTOR|2|SMA|Signal connectors|
-|CONNECTOR|1|JST PH 4-PIN|Control connectors|
-|CONNECTOR|1|2x5 header|Control connectors|
+|CONNECTOR|1|JST PH4P ST90|Control connector|
+|CONNECTOR|1|2x5 header|Control connector|
